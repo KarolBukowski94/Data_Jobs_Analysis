@@ -20,21 +20,13 @@ A single dataset, four analysis tracks (SQL, Power BI, Python, Excel) focused on
 
 ## Dataset & scope (shared across all modules)
 
-- **Source:** dataset curated for [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) courses (SQL / Python / Excel / Power BI tracks).
+- **Source:** dataset curated for [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) courses
+- **Full course videos (YouTube):** [Excel](https://www.youtube.com/watch?v=pCJ15nGFgVg) / [Power BI](https://www.youtube.com/watch?v=FwjaHCVNBWA) / [SQL](https://www.youtube.com/watch?v=7mz73uXD9DA) / [Python](https://www.youtube.com/watch?v=wUSDVGivd-8)
 - **Time coverage:** 2023–2025
 - **Availability:** the full dataset is provided as part of the course materials and is **not included** in this repo.
+- **Course page:** https://www.lukebarousse.com/courses
 
-### Course resources
-
-- **All courses:** [Luke Barousse — Courses](https://www.lukebarousse.com/courses)
-
-- **Full course videos (YouTube):**
-  - [Excel](https://www.youtube.com/watch?v=pCJ15nGFgVg)
-  - [Power BI](https://www.youtube.com/watch?v=FwjaHCVNBWA)
-  - [SQL](https://www.youtube.com/watch?v=7mz73uXD9DA)
-  - [Python](https://www.youtube.com/watch?v=wUSDVGivd-8)
-
-### Dataset overview (2023–2025)
+## Dataset overview (2023–2025)
 
 Job postings dataset curated as part of the course materials, including:
 
