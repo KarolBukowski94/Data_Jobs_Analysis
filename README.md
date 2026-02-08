@@ -1,4 +1,4 @@
-# Data Job Postings Analysis (2023–2025) — Multi-tool Portfolio
+# Data Job Postings Analysis (2023–2025)
 
 A single dataset, four analysis tracks (SQL, Power BI, Python, Excel) focused on understanding the data job market: **demand**, **skills**, and **salary signals**.
 
