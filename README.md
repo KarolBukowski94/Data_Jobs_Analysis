@@ -4,25 +4,17 @@ A single dataset, four analysis tracks (SQL, Power BI, Python, Excel) focused on
 
 ## Quick navigation
 
-### Excel dashboards (Data Analyst focus)
-- **Folder:** [01_excel_data_analyst/](01_excel_data_analyst/)
-- **README:** [Excel Module](01_excel_data_analyst/README.md)
-    - **Salary dashboard (formulas + data validation):** [Excel Dashboard 1](01_excel_data_analyst/01_salary_dashboard/README.md)
-    - **Skill analysis (Power Query + Power Pivot + DAX):** [Excel Dashboard 2](01_excel_data_analyst/02_skill_analysis/README.md)
+### [Excel dashboards (Data Analyst focus)](01_excel_data_analyst/README.md)
+- Salary dashboard (formulas + data validation): [Excel Dashboard 1](01_excel_data_analyst/01_salary_dashboard/README.md)
+- Skill analysis (Power Query + Power Pivot + DAX): [Excel Dashboard 2](01_excel_data_analyst/02_skill_analysis/README.md)
 
-### Power BI dashboards (Business Analyst focus)
-- **Folder:** [02_power_bi_business_analyst/](02_power_bi_business_analyst/)
-- **README:** [Power BI Module](02_power_bi_business_analyst/README.md)
-    - **V1: Multi-page exploration + drill-through:** [Power BI Dashboard 1](02_power_bi_business_analyst/data_jobs_v1/README.md)
-    - **V2: Single-page, DAX-driven, parameter-based analysis:** [Power BI Dashboard 2](02_power_bi_business_analyst/data_jobs_v2/README.md)
+### [Power BI dashboards (Business Analyst focus)](02_power_bi_business_analyst/README.md)
+- V1: Multi-page exploration + drill-through: [Power BI Dashboard 1](02_power_bi_business_analyst/data_jobs_v1/README.md)
+- V2: Single-page, DAX-driven, parameter-based analysis: [Power BI Dashboard 2](02_power_bi_business_analyst/data_jobs_v2/README.md)
 
-### SQL + Power BI (Data Engineer focus)
-- **Folder:** [03_sql_data_engineer/](03_sql_data_engineer/)
-- **README:** [SQL + Power BI Module](03_sql_data_engineer/README.md)
+### [SQL + Power BI (Data Engineer focus)](03_sql_data_engineer/README.md)
 
-### Python notebooks (Data Scientist focus)
-- **Folder:** [04_python_data_scientist/](04_python_data_scientist/)
-- **README:** [Python Module](04_python_data_scientist/README.md)
+### [Python notebooks (Data Scientist focus)](04_python_data_scientist/README.md)
 
 ---
 

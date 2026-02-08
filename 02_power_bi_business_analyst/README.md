@@ -10,8 +10,8 @@ For dataset scope, shared definitions, and course resources, see the [main READM
 
 ### Data Jobs Dashboard (V1 — Comprehensive Exploration)
 
-![Data Jobs Dashboard Page 1](images/project_v1_dashboard_page1.png)
-![Data Jobs Dashboard Page 2](images/project_v1_dashboard_page2.png)
+<img src="images/project_v1_dashboard_page1.png" width="800" alt="Data Jobs Dashboard Page 1">
+<img src="images/project_v1_dashboard_page2.png" width="800" alt="Data Jobs Dashboard Page 2">
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiYTkwYmFiZTYtYWUyNS00MTc0LWE0OTQtZWM0ZjA2ZmEyOTdiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=b309e62db0dc628c8c6b)
 
@@ -34,7 +34,7 @@ The first version provides a two-page exploration aimed at job seekers. It combi
 
 ### Data Jobs Dashboard 2.0 (V2 — Single-Page Focus)
 
-![Data Jobs Dashboard 2.0](images/project_v2_dashboard_overview.png)
+<img src="images/project_v2_dashboard_overview.png" width="800" alt="Data Jobs Dashboard 2.0">
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiMDlhZGM4YzEtZjM0Yi00YjYzLWE5YjYtZjMwNDMxODBmYmE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 

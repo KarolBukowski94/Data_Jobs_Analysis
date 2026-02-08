@@ -8,7 +8,7 @@ Note: With the larger dataset used in V2, the **Skill Percent** DAX can exceed P
 
 For dataset scope, shared definitions, and course resources, see the [main README](../../README.md).
 
-<img src="../images/project_v2_dashboard_overview.png" width="800" alt="Data Jobs Dashboard 2.0">
+<img src="images/project_v2_dashboard_overview.png" width="800" alt="Data Jobs Dashboard 2.0">
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiMDlhZGM4YzEtZjM0Yi00YjYzLWE5YjYtZjMwNDMxODBmYmE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
